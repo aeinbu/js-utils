@@ -1,0 +1,27 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeinbu/js-utils.git"
+  },
+  "keywords": [],
+  "author": "Arjan Einbu <arjan@einbu.no>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aeinbu/js-utils/issues"
+  },
+  "homepage": "https://github.com/aeinbu/js-utils#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
